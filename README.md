@@ -5,11 +5,12 @@
 ## Contents
 
 - [Official Resources](#official-resources)
-- [Tools](#tools)
+- [Working groups](#working-groups)
 - [Projects](#projects)
+- [Tools](#tools)
 - [Simulator](#simulator)
 - [Zenoh](#zenoh)
-- [Working groups](#working-groups)
+- [Vehicles](#vehicles)
 
 ## Official Resources
 
@@ -49,6 +50,6 @@
 - [zenoh_autoware_fms](https://github.com/evshary/zenoh_autoware_fms) - Project to showcase an Autoware fleet management system with Zenoh.
 - [zenoh_autoware_v2x](https://github.com/evshary/zenoh_autoware_v2x) - Project to showcase an Autoware V2X scenario with Zenoh.
 
-## Real Vehicles
+## Vehicles
 
 - [AutoSDV](https://github.com/NEWSLabNTU/AutoSDV): A small-scale autonomous vehicle, equipped with practical, industry-standard sensors and running Autoware.
