@@ -15,6 +15,9 @@ Autoware is the world's leading open-source project for autonomous driving. Auto
   - [Simulator](#simulator)
   - [Zenoh](#zenoh)
   - [Vehicles](#vehicles)
+  - [Tutorials](#tutorials)
+  - [Talks and Articles](#talks-and-articles)
+  - [Contributing](#contributing)
 
 ## Official Resources
 
@@ -24,7 +27,6 @@ Autoware is the world's leading open-source project for autonomous driving. Auto
 - [Autoware Universe Documentation](https://autowarefoundation.github.io/autoware_universe/main/index.html): The documentation for different components, like sensing, perception, etc.
 - [Autoware Discussion](https://github.com/orgs/autowarefoundation/discussions)
 - [Discord](https://discord.gg/Q94UsPvReQ)
-- [Autoware Blog](https://autoware.org/awf-blog/)
 
 ## Working Groups
 
@@ -69,3 +71,16 @@ Zenoh is a network protocol that is designed for robotics, automotive, and IoT. 
 The list of vehicles that use Autoware.
 
 - [AutoSDV](https://github.com/NEWSLabNTU/AutoSDV): A small-scale autonomous vehicle, equipped with practical, industry-standard sensors and running Autoware.
+
+## Tutorials
+
+- [Self-Driving Cars with ROS and Autoware](https://www.youtube.com/playlist?list=PL8EeqqtDev54yyF5-o2jUEOhAm2GSZm6e)
+
+## Talks and Articles
+
+- [Autoware Blog](https://autoware.org/awf-blog/)
+- [A Tale of Two Open-Source Ecosystems: AutoDRIVE and Autoware | Autoware Tutorial | IEEE IV2025](https://youtu.be/MDpC3oAN9gI?si=iWdujfwmkT9WM-fE)
+
+## Contributing
+
+Always happy to accept contributions. Feel free to open pull request to add any awesome resource related to Autoware!
