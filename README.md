@@ -2,15 +2,19 @@
 
 > A curated list of awesome Autoware resources and libraries.
 
-## Contents
+Autoware is the world's leading open-source project for autonomous driving. Autoware is built on Robot Operating System (ROS) and enables commercial deployment.
 
-- [Official Resources](#official-resources)
-- [Working groups](#working-groups)
-- [Projects](#projects)
-- [Tools](#tools)
-- [Simulator](#simulator)
-- [Zenoh](#zenoh)
-- [Vehicles](#vehicles)
+## Table of Content
+
+- [Awesome Autoware ](#awesome-autoware-)
+  - [Table of Content](#table-of-content)
+  - [Official Resources](#official-resources)
+  - [Working Groups](#working-groups)
+  - [Projects](#projects)
+  - [Tools](#tools)
+  - [Simulator](#simulator)
+  - [Zenoh](#zenoh)
+  - [Vehicles](#vehicles)
 
 ## Official Resources
 
@@ -27,6 +31,7 @@
 - [Autoware Working Group](https://autoware.org/join-a-work-group/)
 - [Meeting Minutes](https://github.com/orgs/autowarefoundation/discussions/categories/working-group-meetings)
 - [Working Group Wiki](https://github.com/autowarefoundation/autoware-projects/wiki#working-groups)
+- [Working Group Calendar](https://calendar.google.com/calendar/u/0/embed?src=autoware.org_6lol0ho5ft0217h8c60pi1fm30@group.calendar.google.com&ctz=America/Anchorage): Google calendar lists all the working group meetings. You can download [iCal format](https://calendar.google.com/calendar/ical/autoware.org_6lol0ho5ft0217h8c60pi1fm30%40group.calendar.google.com/public/basic.ics).
 
 ## Projects
 
@@ -36,20 +41,31 @@
 
 ## Tools
 
+Useful tools specifically designed for Autoware.
+
 - [Scenario simulator v2](https://tier4.github.io/scenario_simulator_v2-docs/): A scenario testing framework for Autoware.
 - [Vector Map Builder](https://tools.tier4.jp/feature/vector_map_builder_ll2/): A tool for quickly creating a vector map for Autoware that is compatible to Lanelet2 Format.
+- [CARET](https://github.com/tier4/caret): CARET (Chain-Aware ROS Evaluation Tool) is one of performance analysis tool dedicated with ROS 2 applications.
 
 ## Simulator
 
+Simulator list that supports Autoware.
+
 - [AWSIM](https://tier4.github.io/AWSIM/): A Simulator for Autoware developed by TierIV.
-- [autoware_carla_launch](https://autoware-carla-launch.readthedocs.io/en/latest/): An integration to bridge Autoware and Carla with Zenoh.
+- [CARLA](https://carla.org/): A famous open-source simulator for the autonomous driving research.
+  - [carla_autoware_bridge](https://github.com/autowarefoundation/autoware_universe/tree/main/simulator/autoware_carla_interface): Autoware ROS package to enables communication between Autoware and CARLA simulator for autonomous driving simulation.
+  - [zenoh_carla_bridge](https://autoware-carla-launch.readthedocs.io/en/latest/): The project is mainly for controlling multiple vehicles in Carla via Zenoh.
 
 ## Zenoh
+
+Zenoh is a network protocol that is designed for robotics, automotive, and IoT. Here are some projects that integrate Zenoh into Autoware.
 
 - [autoware_rmw_zenoh](https://github.com/evshary/autoware_rmw_zenoh) - Tutorial for running Autoware with [rmw_zenoh](http://github.com/ros2/rmw_zenoh).
 - [zenoh_autoware_fms](https://github.com/evshary/zenoh_autoware_fms) - Project to showcase an Autoware fleet management system with Zenoh.
 - [zenoh_autoware_v2x](https://github.com/evshary/zenoh_autoware_v2x) - Project to showcase an Autoware V2X scenario with Zenoh.
 
 ## Vehicles
+
+The list of vehicles that use Autoware.
 
 - [AutoSDV](https://github.com/NEWSLabNTU/AutoSDV): A small-scale autonomous vehicle, equipped with practical, industry-standard sensors and running Autoware.
