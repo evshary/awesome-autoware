@@ -9,14 +9,16 @@ Autoware is the world's leading open-source project for autonomous driving. Auto
 - [Awesome Autoware ](#awesome-autoware-)
   - [Table of Content](#table-of-content)
   - [Official Resources](#official-resources)
+  - [Media](#media)
   - [Working Groups](#working-groups)
   - [Projects](#projects)
   - [Tools](#tools)
   - [Simulator](#simulator)
   - [Zenoh](#zenoh)
   - [Vehicles](#vehicles)
-  - [Tutorials](#tutorials)
-  - [Talks and Articles](#talks-and-articles)
+  - [Videos](#videos)
+  - [Papers](#papers)
+  - [Obsolete](#obsolete)
   - [Contributing](#contributing)
 
 ## Official Resources
@@ -27,6 +29,12 @@ Autoware is the world's leading open-source project for autonomous driving. Auto
 - [Autoware Universe Documentation](https://autowarefoundation.github.io/autoware_universe/main/index.html): The documentation for different components, like sensing, perception, etc.
 - [Autoware Discussion](https://github.com/orgs/autowarefoundation/discussions)
 - [Discord](https://discord.gg/Q94UsPvReQ)
+
+## Media
+
+- [Autoware Blog](https://autoware.org/awf-blog/)
+- [Autoware Foundation LinkedIn](https://www.linkedin.com/company/the-autoware-foundation)
+- [Autoware Foundation YouTube](https://www.youtube.com/@autowarefoundation)
 
 ## Working Groups
 
@@ -39,7 +47,9 @@ Autoware is the world's leading open-source project for autonomous driving. Auto
 
 - [Open AD Kit](https://autowarefoundation.github.io/openadkit/): Bring software-defined best practices to the Autoware project and to enhance the Autoware ecosystem and capabilities by partnering with other organizations.
 - [Reference Design Guideline for Low Speed Autonomy (LSA) Vehicles](https://autowarefoundation.github.io/LSA-reference-design-docs/main/): A guideline to design and deploy a TRL-6 low speed autonomy vehicle based on Autoware.
-- [Autonomous Highway Pilot](https://github.com/autowarefoundation/autoware.privately-owned-vehicles): Build an open-source highway autonomy system that can power safe, SAE Level-4, autonomous driving around the world.
+- Privately-owned Vehicles (PoV):
+  - [Autonomous Highway Pilot](https://github.com/autowarefoundation/autoware.privately-owned-vehicles): Build an open-source highway autonomy system that can power safe, SAE Level-4, autonomous driving around the world.
+  - [Reference Design Guideline for Privately-owned Vehicles (PoV)](https://autowarefoundation.github.io/autoware.pov-reference-design-docs/main/): A guideline to design and deploy a PoV vehicle based on Autoware.
 
 ## Tools
 
@@ -72,14 +82,21 @@ The list of vehicles that use Autoware.
 
 - [AutoSDV](https://github.com/NEWSLabNTU/AutoSDV): A small-scale autonomous vehicle, equipped with practical, industry-standard sensors and running Autoware.
 
-## Tutorials
+## Videos
 
 - [Self-Driving Cars with ROS and Autoware](https://www.youtube.com/playlist?list=PL8EeqqtDev54yyF5-o2jUEOhAm2GSZm6e)
-
-## Talks and Articles
-
-- [Autoware Blog](https://autoware.org/awf-blog/)
 - [A Tale of Two Open-Source Ecosystems: AutoDRIVE and Autoware | Autoware Tutorial | IEEE IV2025](https://youtu.be/MDpC3oAN9gI?si=iWdujfwmkT9WM-fE)
+
+## Papers
+
+- [ROS 2 Agnocast: Supporting Unsized Message Types for True Zero-Copy Publish/Subscribe IPC](https://arxiv.org/abs/2506.16882)
+- [TUM Teleoperation: Open Source Software for Remote Driving and Assistance of Automated Vehicles](https://arxiv.org/abs/2506.13933)
+- [Open-Source Autonomous Driving Software Platforms: Comparison of Autoware and Apollo](https://arxiv.org/abs/2501.18942)
+
+## Obsolete
+
+- [Autoware.AI](https://github.com/autowarefoundation/autoware_ai): The autonomous driving framework based on ROS 1.
+- [Autoware.Auto](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/): The autonomous driving framework based on ROS 2, which is replaced by Autoware.core/Autoware.universe.
 
 ## Contributing
 
