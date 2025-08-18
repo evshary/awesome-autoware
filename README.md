@@ -17,6 +17,7 @@ Autoware is the world's leading open-source project for autonomous driving. Auto
   - [Zenoh](#zenoh)
   - [Vehicles](#vehicles)
   - [Videos](#videos)
+  - [Datasets](#datasets)
   - [Papers](#papers)
   - [Obsolete](#obsolete)
   - [Contributing](#contributing)
@@ -86,6 +87,11 @@ The list of vehicles that use Autoware.
 
 - [Self-Driving Cars with ROS and Autoware](https://www.youtube.com/playlist?list=PL8EeqqtDev54yyF5-o2jUEOhAm2GSZm6e)
 - [A Tale of Two Open-Source Ecosystems: AutoDRIVE and Autoware | Autoware Tutorial | IEEE IV2025](https://youtu.be/MDpC3oAN9gI?si=iWdujfwmkT9WM-fE)
+
+## Datasets
+
+- [TuSimple](https://www.kaggle.com/datasets/manideep1108/tusimple)
+- [CurveLanes](https://www.kaggle.com/datasets/bnyadmohammed/curvelanes)
 
 ## Papers
 
