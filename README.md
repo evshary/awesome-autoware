@@ -90,8 +90,12 @@ The list of vehicles that use Autoware.
 
 ## Datasets
 
-- [TuSimple](https://www.kaggle.com/datasets/manideep1108/tusimple)
-- [CurveLanes](https://www.kaggle.com/datasets/bnyadmohammed/curvelanes)
+- rosbag:
+  - [Rosbag replay simulation tutorial](https://drive.google.com/file/d/1sU5wbxlXAfHIksuHjP3PyI2UVED8lZkP/view)
+  - [Dataset on the Autoware documentation](https://autowarefoundation.github.io/autoware-documentation/main/datasets/)
+- Images:
+  - [TuSimple](https://www.kaggle.com/datasets/manideep1108/tusimple)
+  - [CurveLanes](https://www.kaggle.com/datasets/bnyadmohammed/curvelanes)
 
 ## Papers
 
