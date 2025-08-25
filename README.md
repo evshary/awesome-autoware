@@ -26,7 +26,7 @@ Autoware is the world's leading open-source project for autonomous driving. Auto
 
 - [Autoware Website](https://autoware.org/)
 - [Autoware GitHub Organization](https://github.com/autowarefoundation)
-- [Autoware Documentation](https://autowarefoundation.github.io/autoware-documentation/main/): The documentation for the installation, tutorial, etc.
+- [Autoware Documentation](https://autowarefoundation.github.io/autoware-documentation/main/): The documentation for the installation, tutorial, etc. You can find [the document source on GitHub](https://github.com/autowarefoundation/autoware-documentation).
 - [Autoware Universe Documentation](https://autowarefoundation.github.io/autoware_universe/main/index.html): The documentation for different components, like sensing, perception, etc.
 - [Autoware Discussion](https://github.com/orgs/autowarefoundation/discussions)
 - [Discord](https://discord.gg/Q94UsPvReQ)
