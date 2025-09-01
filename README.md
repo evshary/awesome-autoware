@@ -96,6 +96,7 @@ The list of vehicles that use Autoware.
 - Images:
   - [TuSimple](https://www.kaggle.com/datasets/manideep1108/tusimple)
   - [CurveLanes](https://www.kaggle.com/datasets/bnyadmohammed/curvelanes)
+  - [OpenLane](https://github.com/OpenDriveLab/OpenLane)
 
 ## Papers
 
