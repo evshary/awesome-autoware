@@ -20,6 +20,7 @@ Autoware is the world's leading open-source project for autonomous driving. Auto
   - [Datasets](#datasets)
   - [Papers](#papers)
   - [Obsolete](#obsolete)
+  - [Awesome lists](#awesome-lists)
   - [Contributing](#contributing)
 
 ## Official Resources
@@ -86,7 +87,6 @@ The list of vehicles that use Autoware.
 ## Videos
 
 - [Self-Driving Cars with ROS and Autoware](https://www.youtube.com/playlist?list=PL8EeqqtDev54yyF5-o2jUEOhAm2GSZm6e)
-- [A Tale of Two Open-Source Ecosystems: AutoDRIVE and Autoware | Autoware Tutorial | IEEE IV2025](https://youtu.be/MDpC3oAN9gI?si=iWdujfwmkT9WM-fE)
 
 ## Datasets
 
@@ -108,6 +108,11 @@ The list of vehicles that use Autoware.
 
 - [Autoware.AI](https://github.com/autowarefoundation/autoware_ai): The autonomous driving framework based on ROS 1.
 - [Autoware.Auto](https://autowarefoundation.gitlab.io/autoware.auto/AutowareAuto/): The autonomous driving framework based on ROS 2, which is replaced by Autoware.core/Autoware.universe.
+
+## Awesome lists
+
+- [awesome-ros2](https://github.com/fkromer/awesome-ros2): A curated list of awesome Robot Operating System Version 2.0 (ROS 2) resources and libraries.
+- [awesome-zenoh](https://github.com/kydos/awesome-zenoh): A curated list of awesome projects, libraries, tools, and resources built with or for Zenoh – the protocol unifying data in motion, data at rest, and computations.
 
 ## Contributing
 
