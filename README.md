@@ -16,6 +16,7 @@ Autoware is the world's leading open-source project for autonomous driving. Auto
   - [Simulator](#simulator)
   - [Zenoh](#zenoh)
   - [Vehicles](#vehicles)
+  - [AI](#ai)
   - [Videos](#videos)
   - [Datasets](#datasets)
   - [Papers](#papers)
@@ -83,6 +84,10 @@ Zenoh is a network protocol that is designed for robotics, automotive, and IoT. 
 The list of vehicles that use Autoware.
 
 - [AutoSDV](https://github.com/NEWSLabNTU/AutoSDV): A small-scale autonomous vehicle, equipped with practical, industry-standard sensors and running Autoware.
+
+## AI
+
+- [Autoware MCP Integration](https://github.com/jerry73204/autoware-mcp): The Autoware MCP Server provides a universal bridge between ANY AI agent (Claude, GPT, Gemini, or custom agents) and the Autoware autonomous driving stack through the Model Context Protocol (MCP).
 
 ## Videos
 
