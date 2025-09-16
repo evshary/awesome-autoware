@@ -84,6 +84,7 @@ Zenoh is a network protocol that is designed for robotics, automotive, and IoT. 
 The list of vehicles that use Autoware.
 
 - [AutoSDV](https://github.com/NEWSLabNTU/AutoSDV): A small-scale autonomous vehicle, equipped with practical, industry-standard sensors and running Autoware.
+- [EDGAR](https://github.com/orgs/autowarefoundation/discussions/6304): Autoware-based Autonomous Driving by TUM
 
 ## AI
 
@@ -91,7 +92,9 @@ The list of vehicles that use Autoware.
 
 ## Videos
 
-- [Self-Driving Cars with ROS and Autoware](https://www.youtube.com/playlist?list=PL8EeqqtDev54yyF5-o2jUEOhAm2GSZm6e)
+- [Self-Driving Cars with ROS and Autoware](https://www.youtube.com/playlist?list=PL8EeqqtDev54yyF5-o2jUEOhAm2GSZm6e): Learn how to make self-driving cars using state of the art open-source software.
+- [Autoware Tutorial IEEE IV 2025](https://www.youtube.com/playlist?list=PL8EeqqtDev55P6h3tGOD8cPxSc1WKNDDj)
+- [AutowareCon 2025](https://www.youtube.com/live/-ekzcaOAL7Q?si=7Eh5bjPfMwSAHBwR)
 
 ## Datasets
 
