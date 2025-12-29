@@ -61,6 +61,7 @@ Useful tools specifically designed for Autoware.
 - [Scenario simulator v2](https://tier4.github.io/scenario_simulator_v2-docs/): A scenario testing framework for Autoware.
 - [Vector Map Builder](https://tools.tier4.jp/feature/vector_map_builder_ll2/): A tool for quickly creating a vector map for Autoware that is compatible to Lanelet2 Format.
 - [CARET](https://github.com/tier4/caret): CARET (Chain-Aware ROS Evaluation Tool) is one of performance analysis tool dedicated with ROS 2 applications.
+- [Autoware Manual Controller](https://github.com/evshary/autoware_manual_control): Keyboard controller for Autoware.
 
 ## Simulator
 
