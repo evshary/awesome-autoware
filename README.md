@@ -78,6 +78,10 @@ Zenoh is a network protocol that is designed for robotics, automotive, and IoT. 
 - [autoware_rmw_zenoh](https://github.com/evshary/autoware_rmw_zenoh) - Tutorial for running Autoware with [rmw_zenoh](http://github.com/ros2/rmw_zenoh).
 - [zenoh_autoware_fms](https://github.com/evshary/zenoh_autoware_fms) - Project to showcase an Autoware fleet management system with Zenoh.
 - [zenoh_autoware_v2x](https://github.com/evshary/zenoh_autoware_v2x) - Project to showcase an Autoware V2X scenario with Zenoh.
+- Blogs for Autoware + Zenoh:
+  - [Driving Autoware with Zenoh](https://autoware.org/driving-autoware-with-zenoh/)
+  - [Running Multiple Autoware-Powered Vehicles in Carla using Zenoh](https://autoware.org/running-multiple-autoware-powered-vehicles-in-carla-using-zenoh/)
+  - [Managing Multiple Autoware Vehicles with Zenoh](https://autoware.org/managing-multiple-autoware-vehicles-with-zenoh/)
 
 ## Vehicles
 
