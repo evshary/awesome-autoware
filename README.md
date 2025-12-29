@@ -96,6 +96,9 @@ The list of vehicles that use Autoware.
 - [Self-Driving Cars with ROS and Autoware](https://www.youtube.com/playlist?list=PL8EeqqtDev54yyF5-o2jUEOhAm2GSZm6e): Learn how to make self-driving cars using state of the art open-source software.
 - [Autoware Tutorial IEEE IV 2025](https://www.youtube.com/playlist?list=PL8EeqqtDev55P6h3tGOD8cPxSc1WKNDDj)
 - [AutowareCon 2025](https://www.youtube.com/live/-ekzcaOAL7Q?si=7Eh5bjPfMwSAHBwR)
+- Autoware Foundation General Assembly:
+  - [2024](https://www.youtube.com/playlist?list=PL8EeqqtDev54Y7Jl5tMepd6lZu7Xd8X3i)
+  - [2023](https://www.youtube.com/playlist?list=PL8EeqqtDev57JEEs_HL3g9DbAwGkbWmhK)
 
 ## Datasets
 
