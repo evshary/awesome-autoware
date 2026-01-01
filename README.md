@@ -130,6 +130,7 @@ The list of vehicles that use Autoware.
 
 - [awesome-ros2](https://github.com/fkromer/awesome-ros2): A curated list of awesome Robot Operating System Version 2.0 (ROS 2) resources and libraries.
 - [awesome-zenoh](https://github.com/kydos/awesome-zenoh): A curated list of awesome projects, libraries, tools, and resources built with or for Zenoh – the protocol unifying data in motion, data at rest, and computations.
+- [Embodied-AI-Guide](https://github.com/TianxingChen/Embodied-AI-Guide): A list for the emodied AI in Chinese.
 
 ## Contributing
 
