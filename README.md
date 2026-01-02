@@ -32,6 +32,12 @@ Autoware is the world's leading open-source project for autonomous driving. Auto
 - [Autoware Universe Documentation](https://autowarefoundation.github.io/autoware_universe/main/index.html): The documentation for different components, like sensing, perception, etc.
 - [Autoware Discussion](https://github.com/orgs/autowarefoundation/discussions)
 - [Discord](https://discord.gg/Q94UsPvReQ)
+- Code:
+  - [Autoware](https://github.com/autowarefoundation/autoware): This is the main repository. It will get all the other code from GitHub while building.
+  - [autoware_core](https://github.com/autowarefoundation/autoware_core): This includes the core functions of the Autoware, which is verified completely.
+  - [autoware_universe](https://github.com/autowarefoundation/autoware_universe): This provides more functions for the autonomous-driving.
+  - [autoware_msgs](https://github.com/autowarefoundation/autoware_msgs): Includes the message type used in Autoware.
+  - [autoware_launch](https://github.com/autowarefoundation/autoware_launch): Includes the ROS 2 launch file used in Autoware
 
 ## Media
 
