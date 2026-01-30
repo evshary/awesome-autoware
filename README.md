@@ -97,6 +97,7 @@ The list of vehicles that use Autoware.
 - [AutoSDV](https://github.com/NEWSLabNTU/AutoSDV): A small-scale autonomous vehicle, equipped with practical, industry-standard sensors and running Autoware.
 - [EDGAR](https://github.com/orgs/autowarefoundation/discussions/6304): Autoware-based Autonomous Driving developed by TUM.
 - [Teleoperation with EDGAR](https://github.com/orgs/autowarefoundation/discussions/6560): A teleoperation framework developed by TUM.
+- [microAutoware](https://github.com/orgs/autowarefoundation/discussions/6415): An Autoware Vehicle Interface for Real-Time Embedded Systems.
 
 ## AI
 
