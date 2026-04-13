@@ -58,7 +58,7 @@ Autoware is the world's leading open-source project for autonomous driving. Auto
 - Reference Design Guideline: The document that helps users setup their vehicles.
   - [Reference Design Guideline for Low Speed Autonomy (LSA) Vehicles](https://autowarefoundation.github.io/LSA-reference-design-docs/main/): A guideline to design and deploy a TRL-6 low speed autonomy vehicle based on Autoware.
   - [Reference Design Guideline for Privately-owned Vehicles (PoV)](https://autowarefoundation.github.io/autoware.pov-reference-design-docs/main/): A guideline to design and deploy a PoV vehicle based on Autoware.
-- [Privately-owned Vehicles (PoV)](https://github.com/autowarefoundation/autoware.privately-owned-vehicles): Build an open-source highway autonomy system that can power safe, SAE Level-4, autonomous driving around the world.
+- [Vision Pilot - ADAS and Self Driving](https://github.com/autowarefoundation/autoware_vision_pilot): Build an open-source highway autonomy system that can power safe, SAE Level-4, autonomous driving around the world.
 
 ## Tools
 
