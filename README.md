@@ -32,7 +32,7 @@ Autoware is the world's leading open-source project for autonomous driving. Auto
 - [Autoware Universe Documentation](https://autowarefoundation.github.io/autoware_universe/main/index.html): The documentation for different components, like sensing, perception, etc.
 - [Autoware Discussion](https://github.com/orgs/autowarefoundation/discussions)
 - [Autoware Contributor Metrics](https://autowarefoundation.github.io/autoware-contributor-metrics/): A website to track the all the metrics of Autoware adoption.
-- [Autoware Index](https://autowarefoundation.github.io/autoware-index/): Federated registry of community Autoware packages.
+- [Autoware Index](https://autowarefoundation.github.io/autoware-index/): Federated registry of community Autoware packages. We can follow the guide in the [README](https://github.com/autowarefoundation/autoware-index).
 - [Discord](https://discord.gg/Q94UsPvReQ)
 - Code:
   - [Autoware](https://github.com/autowarefoundation/autoware): This is the main repository. It will get all the other code from GitHub while building.
