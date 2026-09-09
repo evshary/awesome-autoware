@@ -108,6 +108,7 @@ The list of vehicles that use Autoware.
 - [Alpamayo ROS package](https://github.com/autowarefoundation/alpamayo-autoware): Running the NVIDIA Alpamayo model with Autoware.
 - [automotive-claude-code-agents](https://github.com/theja0473/automotive-claude-code-agents): The automotive engineer's AI-powered command center for Claude Code.
 - [Autoware MCP Integration](https://github.com/jerry73204/autoware-mcp): The Autoware MCP Server provides a universal bridge between ANY AI agent (Claude, GPT, Gemini, or custom agents) and the Autoware autonomous driving stack through the Model Context Protocol (MCP).
+- [METEOR](https://github.com/tier4/METEOR): An open reference E2E model for surround-view driving, trained with zero human labels
 
 ## Videos
 
